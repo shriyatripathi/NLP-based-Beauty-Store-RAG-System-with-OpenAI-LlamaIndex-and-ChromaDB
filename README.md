@@ -1,0 +1,1 @@
+# NLP-based-Beauty-Store-RAG-System-with-OpenAI-LlamaIndex-and-ChromaDB
